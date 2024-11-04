@@ -1,5 +1,6 @@
 # Hava_Kirliligi_Analizi_Veri_Bilimi_Uygulamalari
 
+![havakirliliği](https://github.com/user-attachments/assets/b7bcbd6a-a68b-49f7-9ba6-e12a467ddb29)
 
 
 ## Proje Hakkında
