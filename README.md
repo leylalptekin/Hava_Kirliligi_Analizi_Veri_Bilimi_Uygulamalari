@@ -10,7 +10,7 @@ Bu proje, hava kirliliği ile ilgili verilerin analizi üzerine odaklanmaktadır
 
 👉Kullanılan Teknolojiler
 
-•Python
+•Python 
 
 •Pandas
 
