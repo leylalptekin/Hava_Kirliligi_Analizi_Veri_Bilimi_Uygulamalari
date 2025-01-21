@@ -8,7 +8,7 @@
 Bu proje, hava kirliliği ile ilgili verilerin analizi üzerine odaklanmaktadır. Amaç, hava kirliliği seviyelerini incelemek, bu seviyelerin zaman içindeki değişimini görselleştirmek ve hava kalitesi ile ilgili bilgilere ulaşmaktır. Analizler, veri görselleştirme ve makine öğrenimi tekniklerini kullanarak gerçekleştirilmiştir.
 
 
-👉Kullanılan Teknolojiler
+👉Kullanılan Teknolojiler 
 
 •Python 
 
